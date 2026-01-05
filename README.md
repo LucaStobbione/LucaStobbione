@@ -60,7 +60,7 @@ These experiences reinforced my motivation to pursue a **front-office trading ca
 
 ## 📫 Get in Touch
 
-- 📧 Email: luca.stobbione@edhec.com  
+- 📧 Email: stobbione.luca@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/luca-stobbione03
 
 ---
