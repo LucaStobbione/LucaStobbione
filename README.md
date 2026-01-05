@@ -9,7 +9,8 @@
 
 ## 🚀 About Me
 
-I am currently pursuing a **Double Degree Master in Finance & Financial Engineering at EDHEC Business School**, after completing a **BSc in Economics and Finance at Bocconi University**.
+I am currently pursuing a **Double Degree Master in Finance & Financial Engineering at EDHEC Business School**, 
+after completing a **BSc in Economics and Finance at Bocconi University**.
 
 My goal is clear: **to build a career as a trader**, combining:
 - deep understanding of **financial markets**
