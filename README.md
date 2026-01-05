@@ -51,7 +51,7 @@ I strongly believe that **modern trading requires strong coding skills**.
   - Bank of America – London (Sales & Trading)
 
 - **Euromobiliare Advisory SIM – Asset Management Intern**
-  - *VBA automation* of Excel to monitor portfolios for portfolio managers
+  - *VBA automation* in Excel to monitor portfolios for portfolio managers
   - End-of-day macro and market reports
 
 These experiences reinforced my motivation to pursue a **front-office trading career**.
